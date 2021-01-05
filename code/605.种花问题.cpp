@@ -2,6 +2,7 @@
 using namespace std;
 
 
+//贪心算法求解
 class Solution {
 public:
     bool canPlaceFlowers(vector<int>& flowerbed, int n) {
